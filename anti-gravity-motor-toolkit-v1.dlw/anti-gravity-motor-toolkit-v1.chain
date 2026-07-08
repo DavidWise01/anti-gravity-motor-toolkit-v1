@@ -4,6 +4,6 @@ slug  : anti-gravity-motor-toolkit-v1
 seal  : 6f93522f98b84a138b8f06f62f215f0c6adf2c67a83de0baf512271cc21d7ea0
 prev  : d801f3034f41e703a57012299e2c8d53f1f6312d0a0598b9f494fd02032cd69b
 link  : e1848b03060ded6218cf49addabcb75eed04798e5455e9b040a61b8bb01ba623
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
